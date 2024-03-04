@@ -8,7 +8,7 @@ I love to program games, that's what I spend most of my time doing, working with
 ## My favorite projects 🤖
 Apart from the ones I've pinned in my profile, I'd like to highlight these to give you an idea of what I truly love to work with.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unnamed-engine&repo=Unamed-engine&theme=darcula)](https://github.com/Unnamed-engine/unamed-engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hush-Engine&repo=Hush-Engine&theme=darcula)](https://github.com/Unnamed-engine/unamed-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=LD53&theme=darcula)](https://github.com/Kyn21kx/LD53)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=SpartanTasks&theme=darcula)](https://github.com/Kyn21kx/SpartanTasks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=Red-Hazel&theme=darcula)](https://github.com/Kyn21kx/Red-Hazel)
