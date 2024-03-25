@@ -1,4 +1,4 @@
-# Hello there! 👋🏻 My name is Nef
+# Hello there! 👋🏻 My name is Leónidas Neftalí
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75035&random=false&width=435&lines=Game+%26+Software+Developer;C%23+%26+C%2B%2B+Enthusiast)](https://git.io/typing-svg)
 ## Summary 📖
