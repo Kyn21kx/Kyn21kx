@@ -12,6 +12,8 @@ Apart from the ones I've pinned in my profile, I'd like to highlight these to gi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=LD53&theme=darcula)](https://github.com/Kyn21kx/LD53)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=SwordDashGame&theme=darcula)](https://github.com/Kyn21kx/SwordDashGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=SimGameAssessment&theme=darcula)](https://github.com/Kyn21kx/SimGameAssessment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyn21kx&repo=Aspis.NET&theme=darcula)](https://github.com/Kyn21kx/Aspis.NET)
+
 ## Tech stack
 ### My favorite technologies 🩷 (in case it's not obvious enough)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
