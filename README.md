@@ -4,7 +4,7 @@
 ## Summary 📖
 I'm a passionate professional developer that takes pride in creating dynamic experiences through my code.
 <br>
-I love to program games, that's what I spend most of my time doing, working with any kind of gameplay systems, and creating internal tooling and APIs to make the work of developers close to me easier is something that I think I do pretty well c:
+I am mainly a Game Engine and Gameplay programmer working with high performance and data intensive game systems.
 ## My favorite projects 🤖
 Apart from the ones I've pinned in my profile, I'd like to highlight these to give you an idea of what I truly love to work with.
 
